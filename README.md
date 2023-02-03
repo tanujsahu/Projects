@@ -1,11 +1,14 @@
 # Projects
 Details of all of my project are provided here
 
-* My Schoola 
+# My Schoola 
 
-* My Snookerz
+* School ERP proejct, in this project we are manage student attendance, fee, and we can also provide online exam.
 
-* My Team
 
-* Meri Mudra 
+# My Snookerz
+
+# My Team
+
+# Meri Mudra 
 
