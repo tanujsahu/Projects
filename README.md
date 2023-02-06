@@ -1,13 +1,13 @@
 # Projects
 Details of all of my project are provided here
 
-## GymCatch 
+# GymCatch 
 
-# Tech Stack
+## Tech Stack
 * Angular 12 - 13 
 * NodeJs 12 - 16
 
-## Oralift 
+# Oralift 
 
 * Oralift is a health and wellness project aimed at helping users track their fitness progress. 
 
@@ -16,7 +16,7 @@ Details of all of my project are provided here
 
 * The ultimate goal of OrAlift is to promote a healthier and more active lifestyle for users.
 
-# Tech Stack
+## Tech Stack
 * ReactJs 
 * NodeJs 14
 * MongoDB
@@ -24,7 +24,7 @@ Details of all of my project are provided here
 * Sendgrid
 * Firebase
 
-## Roezy 
+# Roezy 
 
 * The Roezy project is a car service management system that is designed to streamline the process of providing services to clients. 
 
@@ -39,14 +39,14 @@ Details of all of my project are provided here
 
 * The system also provides reports and analytics on the performance of the technicians and the overall process, which can be used for continuous improvement.
 
-# Tech Stack
+## Tech Stack
 * Angular 12 
 * NodeJs 16
 * MySql
 * AWS Serverless
 * S3 Bucket
 
-## My Schoola 
+# My Schoola 
 
 * 
 My Schoola project is an innovative solution for managing and streamlining various educational processes in a school. It is equipped with several features that make it a comprehensive and user-friendly platform for students, teachers, and administrators.
@@ -59,12 +59,12 @@ My Schoola project is an innovative solution for managing and streamlining vario
 
 * The online exam feature of the school project provides a secure and efficient platform for conducting exams. This not only saves time but also eliminates the need for manual correction, reducing the chance of errors.
 
-# Tech Stack
+## Tech Stack
 * Angular 9 
 * NodeJs 14
 * MongoDB
 
-## My Snookerz
+# My Snookerz
 
 * This project focuses on automating various aspects of light management and generating reports for beverages. 
 
@@ -74,12 +74,12 @@ My Schoola project is an innovative solution for managing and streamlining vario
 
 * By using this project, organizations can save time and resources by eliminating manual processes, improving efficiency and accuracy.
 
-# Tech Stack
+## Tech Stack
 * Angular 9 
 * NodeJs 14
 * MongoDB
 
-## Meri Mudra 
+# Meri Mudra 
 
 * The project is a platform for individuals to apply for credit cards. 
 * The first step of the process is for the user to register themselves on the platform by providing their PAN card details. 
@@ -88,12 +88,12 @@ My Schoola project is an innovative solution for managing and streamlining vario
 * The user can choose a credit card that suits their needs and apply for it through the platform.
 * This project aims to simplify the credit card application process by providing a convenient and user-friendly platform for users to apply for credit cards and to have a one-stop-shop for all their credit card needs.
 
-# Tech Stack
+## Tech Stack
 * Angular 9 
 * NodeJs 14
 * MongoDB
 
-## My Team
+# My Team
 
 * This project is a feature flag and project management system with a focus on simplicity and ease of use. 
 
@@ -105,7 +105,7 @@ My Schoola project is an innovative solution for managing and streamlining vario
 
 * Whether you are looking to streamline your workflow, improve your team's productivity, or simply gain better visibility into your projects, this system is the perfect solution for you.
 
-# Tech Stack
+## Tech Stack
 * Angular 9 
 * NodeJs 14
 * MongoDB
