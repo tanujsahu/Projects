@@ -3,10 +3,6 @@ Details of all of my project are provided here
 
 # GymCatch 
 
-  With the following command the angular-cli will be installed globally in your machine:
-
-    (http://mysnookerz.in/#/sign-in?redirectURL=%2Fdashboards)
-
 ## Tech Stack
 * Angular 12 - 13 
 * NodeJs 12 - 16
@@ -79,8 +75,7 @@ My Schoola project is an innovative solution for managing and streamlining vario
 * By using this project, organizations can save time and resources by eliminating manual processes, improving efficiency and accuracy.
 
 * Url:
-
-   http://mysnookerz.in/#/sign-in?redirectURL=%2Fdashboards
+    (http://mysnookerz.in/#/sign-in?redirectURL=%2Fdashboards)
 
 ## Tech Stack
 * Angular 9 
