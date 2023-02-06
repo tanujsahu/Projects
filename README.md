@@ -3,6 +3,9 @@ Details of all of my project are provided here
 
 # GymCatch 
 
+# Url:
+    https://gymcatch.com/
+
 ## Tech Stack
 * Angular 12 - 13 
 * NodeJs 12 - 16
@@ -88,6 +91,7 @@ My Schoola project is an innovative solution for managing and streamlining vario
 * By using this project, organizations can save time and resources by eliminating manual processes, improving efficiency and accuracy.
 
 # Url:
+    [http://mysnookerz.in]
     http://mysnookerz.in/#/sign-in?redirectURL=%2Fdashboards
 
 ## Tech Stack
@@ -105,7 +109,8 @@ My Schoola project is an innovative solution for managing and streamlining vario
 * This project aims to simplify the credit card application process by providing a convenient and user-friendly platform for users to apply for credit cards and to have a one-stop-shop for all their credit card needs.
 
 # Url:
-    merimudra.com
+    [merimudra.com] 
+    https://www.merimudra.com 
 
 ## Tech Stack
 * Angular 9 
