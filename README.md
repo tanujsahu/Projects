@@ -78,6 +78,8 @@ My Schoola project is an innovative solution for managing and streamlining vario
 
 * By using this project, organizations can save time and resources by eliminating manual processes, improving efficiency and accuracy.
 
+* Url:
+
    http://mysnookerz.in/#/sign-in?redirectURL=%2Fdashboards
 
 ## Tech Stack
