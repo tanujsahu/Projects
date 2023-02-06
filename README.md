@@ -92,6 +92,7 @@ My Schoola project is an innovative solution for managing and streamlining vario
 
 # Url:
     [http://mysnookerz.in]
+
     http://mysnookerz.in/#/sign-in?redirectURL=%2Fdashboards
 
 ## Tech Stack
@@ -110,6 +111,7 @@ My Schoola project is an innovative solution for managing and streamlining vario
 
 # Url:
     [merimudra.com] 
+    
     https://www.merimudra.com 
 
 ## Tech Stack
