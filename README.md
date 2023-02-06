@@ -16,6 +16,9 @@ Details of all of my project are provided here
 
 * The ultimate goal of OrAlift is to promote a healthier and more active lifestyle for users.
 
+    npm install -g @angular/cli
+    hello://g.com
+
 ## Tech Stack
 * ReactJs 
 * NodeJs 14
