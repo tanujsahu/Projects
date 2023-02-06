@@ -3,6 +3,10 @@ Details of all of my project are provided here
 
 # GymCatch 
 
+  With the following command the angular-cli will be installed globally in your machine:
+
+    npm install -g @angular/cli 
+
 ## Tech Stack
 * Angular 12 - 13 
 * NodeJs 12 - 16
