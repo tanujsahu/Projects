@@ -5,7 +5,7 @@ Details of all of my project are provided here
 
   With the following command the angular-cli will be installed globally in your machine:
 
-    npm install -g @angular/cli 
+    npm install 
 
 ## Tech Stack
 * Angular 12 - 13 
