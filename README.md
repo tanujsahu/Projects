@@ -18,8 +18,7 @@ Details of all of my project are provided here
 
 # url:
 
-    npm install -g @angular/cli
-    hello://g.com
+    oralift.com
     
 
 ## Tech Stack
@@ -45,6 +44,10 @@ Details of all of my project are provided here
 
 * The system also provides reports and analytics on the performance of the technicians and the overall process, which can be used for continuous improvement.
 
+# Url:
+
+    roezy.com
+
 ## Tech Stack
 * Angular 12 
 * NodeJs 16
@@ -65,6 +68,10 @@ My Schoola project is an innovative solution for managing and streamlining vario
 
 * The online exam feature of the school project provides a secure and efficient platform for conducting exams. This not only saves time but also eliminates the need for manual correction, reducing the chance of errors.
 
+# Url:
+
+    myschoola.com
+
 ## Tech Stack
 * Angular 9 
 * NodeJs 14
@@ -80,7 +87,7 @@ My Schoola project is an innovative solution for managing and streamlining vario
 
 * By using this project, organizations can save time and resources by eliminating manual processes, improving efficiency and accuracy.
 
-    Url:
+# Url:
     http://mysnookerz.in/#/sign-in?redirectURL=%2Fdashboards
 
 ## Tech Stack
@@ -96,6 +103,9 @@ My Schoola project is an innovative solution for managing and streamlining vario
 * The platform will use the provided PAN card details to determine the eligibility of the user for different credit cards.
 * The user can choose a credit card that suits their needs and apply for it through the platform.
 * This project aims to simplify the credit card application process by providing a convenient and user-friendly platform for users to apply for credit cards and to have a one-stop-shop for all their credit card needs.
+
+# Url:
+    merimudra.com
 
 ## Tech Stack
 * Angular 9 
