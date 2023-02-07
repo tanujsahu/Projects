@@ -27,7 +27,9 @@ Details of all of my project are provided here
 ## Tech Stack
 * ReactJs 
 * NodeJs 14
+* Express
 * MongoDB
+* Mongoose
 * Clodinary
 * Sendgrid
 * Firebase
@@ -57,6 +59,7 @@ Details of all of my project are provided here
 * MySql
 * AWS Serverless
 * S3 Bucket
+* AWS SES
 
 # My Schoola 
 
@@ -76,9 +79,14 @@ My Schoola project is an innovative solution for managing and streamlining vario
     myschoola.com
 
 ## Tech Stack
+
 * Angular 9 
+* Rxjs
 * NodeJs 14
+* Express
+* Nodemailer
 * MongoDB
+* Mongoose
 
 # My Snookerz
 
@@ -96,9 +104,14 @@ My Schoola project is an innovative solution for managing and streamlining vario
     http://mysnookerz.in/#/sign-in?redirectURL=%2Fdashboards
 
 ## Tech Stack
+
 * Angular 9 
+* Rxjs
 * NodeJs 14
+* Express
+* Nodemailer
 * MongoDB
+* Mongoose
 
 # Meri Mudra 
 
@@ -115,9 +128,14 @@ My Schoola project is an innovative solution for managing and streamlining vario
     https://www.merimudra.com 
 
 ## Tech Stack
+
 * Angular 9 
+* Rxjs
 * NodeJs 14
+* Express
+* Nodemailer
 * MongoDB
+* Mongoose
 
 # My Team
 
@@ -136,7 +154,12 @@ My Schoola project is an innovative solution for managing and streamlining vario
     myteams.com
 
 ## Tech Stack
+
 * Angular 9 
+* Rxjs
 * NodeJs 14
+* Express
+* Nodemailer
 * MongoDB
+* Mongoose
 
