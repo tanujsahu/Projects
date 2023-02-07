@@ -10,6 +10,21 @@ Details of all of my project are provided here
 * Angular 12 - 13 
 * NodeJs 12 - 16
 
+# Wooflocal 
+
+## Url:
+    https://www.wooflocal.dog
+
+## Tech Stack
+* AngularJS 
+* NodeJs 12
+* Exxpress
+* Sendgrid
+* Cloudinary
+* Heroku
+* MongoDb
+* Mongoose
+
 
 # Oralift 
 
@@ -31,7 +46,7 @@ Details of all of my project are provided here
 * Express
 * MongoDB
 * Mongoose
-* Clodinary
+* Cloudinary
 * Sendgrid
 * Firebase
 
