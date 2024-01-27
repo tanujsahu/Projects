@@ -1,6 +1,26 @@
 # Projects
 Details of all of my project are provided here
 
+# Puremind
+
+* The Puremind Platform, integrating Doctors Consultation and PVR Therapy, stands as a
+transformative solution in the healthcare industry.
+
+* By combining virtual consultations with personalized rehabilitation services, the platform prioritizes accessibility,
+convenience, and personalized care, ultimately contributing to an improved and holistic
+healthcare experience for users
+
+## Url:
+    puremind.com.au
+
+## Tech Stack
+* Angular 12 
+* NodeJs 16
+* MySql
+* AWS Serverless
+* S3 Bucket
+* AWS SES SNS SQS EC2 ROUTE53
+
 # GymCatch 
 
 ## Url:
