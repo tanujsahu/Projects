@@ -1,6 +1,31 @@
 # Projects
 Details of all of my project are provided here
 
+# Craveable Brands
+
+* Craveable Brands Ltd is an Australian fast food holding company.
+* It owns the Red Rooster, Oporto, and Chicken Treat brands.
+
+## Url:
+    https://www.craveablebrands.com
+
+## Tech Stack
+*  NodeJs 16
+*  AWS Serverless
+*  S3 Bucket
+*  SES
+*  SNS
+*  SQS
+*  EC2
+*  ROUTE53
+*  CLOUDWATCH
+*  CLOUDFRONT
+*  DYNAMODB
+*  CONGNITO
+*  FATZEBRA
+*  TRANXACTOR
+
+
 # Puremind
 
 * The Puremind Platform, integrating Doctors Consultation and PVR Therapy, stands as a
@@ -11,7 +36,7 @@ convenience, and personalized care, ultimately contributing to an improved and h
 healthcare experience for users
 
 ## Url:
-    puremind.com.au
+    https://web-uat.puremind.com.au
 
 ## Tech Stack
 * Angular 12 
@@ -19,7 +44,12 @@ healthcare experience for users
 * MySql
 * AWS Serverless
 * S3 Bucket
-* AWS SES SNS SQS EC2 ROUTE53
+* AWS
+* SES
+* SNS
+* SQS
+* EC2
+* ROUTE53
 
 # GymCatch 
 
