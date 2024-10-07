@@ -3,10 +3,10 @@ Details of all of my project are provided here
 
 # Craveable Brands - Red Rooster
 ## The Top Fast Food Brand in Australia: Red Rooster's Journey to Innovation
-## Company: Craveable Brands Ltd
-## Brand: Red Rooster
-## Role: Backend Developer
-## Duration: 1 Year
+* Company: Craveable Brands Ltd
+* Brand: Red Rooster
+* Role: Backend Developer
+* Duration: 1 Year
 
 # Project Overview
 As a leading name in the Australian fast food market, Red Rooster aimed to enhance its digital ordering platform to provide a superior customer experience. This project focused on implementing new features and optimizing existing functionalities, ultimately driving sales and increasing customer satisfaction.
