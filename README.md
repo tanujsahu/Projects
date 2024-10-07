@@ -38,9 +38,14 @@ Content Management and Vouchers
 * Technologies Used: Implemented Contentful for a flexible solution to manage marketing materials and promotions.
 Outcomes
 
-## Enhanced Customer Experience: New ordering features and an improved user interface led to increased customer satisfaction and engagement.
-## Increased Sales: The introduction of catering services and a loyalty program drove higher order volumes and repeat business.
-## Operational Efficiency: Integrations with DoorDash and Deliverect streamlined operations, allowing for faster order processing and delivery.
+## Enhanced Customer Experience
+   New ordering features and an improved user interface led to increased customer satisfaction and engagement.
+
+## Increased Sales
+   The introduction of catering services and a loyalty program drove higher order volumes and repeat business.
+
+## Operational Efficiency
+   Integrations with DoorDash and Deliverect streamlined operations, allowing for faster order processing and delivery.
 
 ## Url:
     https://www.craveablebrands.com
