@@ -1,5 +1,33 @@
-# Projects
-This document outlines the projects I have worked on and am currently working on, showcasing my skills and contributions.
+# My Projects and Skills
+
+## Introduction
+Welcome to my GitHub profile! I am a passionate Full Stack Developer with experience in building scalable web applications using a variety of technologies. Below you'll find an overview of my skills and the projects I have worked on.
+
+## Skills
+
+### Frontend Technologies
+- **Angular 12**
+- **AngularJS**
+- **React.js**
+
+### Backend Technologies
+- **Node.js (Versions 12, 14, 16)**
+- **Express.js**
+
+### Database Technologies
+- **MySQL**
+- **MongoDB**
+- **DynamoDB**
+
+### Cloud Services
+- **AWS (Serverless Architecture, S3, SES, SNS, SQS, EC2, Route 53, CloudWatch, CloudFront, Cognito)**
+- **Heroku**
+
+### Other Tools and Technologies
+- **SendGrid**
+- **Cloudinary**
+- **Mongoose**
+- **Firebase**
 
 # Craveable Brands - Red Rooster
 ## The Top Fast Food Brand in Australia: Red Rooster's Journey to Innovation
