@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I am a passionate Full Stack Developer with experi
 As a leading name in the Australian fast food market, Red Rooster aimed to enhance its digital ordering platform to provide a superior customer experience. This project focused on implementing new features and optimizing existing functionalities, ultimately driving sales and increasing customer satisfaction.
 
 # Key Features Implemented
-## Catering Orders
+## Features and Tech
 
 * Description: Expanded ordering capabilities to include catering services alongside pickup and delivery options.
 * Technologies Used: Developed custom backend APIs to manage catering workflows, integrating with inventory and logistics systems.
