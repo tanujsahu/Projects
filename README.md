@@ -113,7 +113,7 @@ This project focuses on the development of Gymcatch's booking, customer manageme
 At Gymcatch, our mission is to increase participation in fitness through innovative technology. By simplifying the process of finding and booking fitness activities, we encourage more people to engage in exercise and promote community wellness.
 
 ## Url:
-   https://gymcatch.com/
+    https://gymcatch.com/
 
 ## Tech Stack
 * Angular 12 - 13 
