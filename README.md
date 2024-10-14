@@ -6,13 +6,14 @@ Welcome to my GitHub profile! I am a passionate Full Stack Developer with experi
 ## Skills
 
 ### Frontend Technologies
-- **Angular 12**
-- **AngularJS**
+- **Angular**
 - **React.js**
+- **Next.js**
 
 ### Backend Technologies
-- **Node.js (Versions 12, 14, 16)**
+- **Node.js (Versions 12, 14, 16, 20)**
 - **Express.js**
+- **Lambda Function**
 
 ### Database Technologies
 - **MySQL**
