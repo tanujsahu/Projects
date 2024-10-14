@@ -137,7 +137,6 @@ At Gymcatch, our mission is to increase participation in fitness through innovat
 
 # Oralift 
 
-
 * Oralift is a health and wellness project aimed at helping users track their fitness progress. 
 
 * The project utilizes wearable devices that capture data, photos, and videos related to the user's physical activity and state.
