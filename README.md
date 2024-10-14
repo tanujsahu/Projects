@@ -131,11 +131,11 @@ This project focuses on the development of Gymcatch's booking, customer manageme
 * Duration: 9 Months
 
 ## Key Technologies and Methodologies
-* 1. Custom Libraries - Developed proprietary NPM packages tailored to our specific design and functionality needs, ensuring a consistent and maintainable UI.
-* 2. State Management with NgRx - Implemented NgRx for efficient state management, using actions, reducers, and selectors to facilitate a reactive programming model across the application.
-* 3. Custom API Management - Established a separate project dedicated to managing API service calls, promoting a clean separation of concerns and optimizing the handling of network requests and responses.
-* 4. Component Architecture - Utilized Angular’s component-based architecture to create reusable and maintainable UI elements, improving both development speed and user experience.
-* 5. Advanced Angular Features - Leveraged lazy loading to optimize application performance by loading modules only when needed.
+*  Custom Libraries - Developed proprietary NPM packages tailored to our specific design and functionality needs, ensuring a consistent and maintainable UI.
+*  State Management with NgRx - Implemented NgRx for efficient state management, using actions, reducers, and selectors to facilitate a reactive programming model across the application.
+*  Custom API Management - Established a separate project dedicated to managing API service calls, promoting a clean separation of concerns and optimizing the handling of network requests and responses.
+*  Component Architecture - Utilized Angular’s component-based architecture to create reusable and maintainable UI elements, improving both development speed and user experience.
+*  Advanced Angular Features - Leveraged lazy loading to optimize application performance by loading modules only when needed.
      Employed Angular’s AOT (Ahead-of-Time) compilation to enhance load times and overall runtime efficiency.
 
 ## Mission
