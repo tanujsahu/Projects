@@ -121,6 +121,8 @@ At Gymcatch, our mission is to increase participation in fitness through innovat
 
 # Wooflocal 
 
+Founded during the pandemic in 2020-2021, Woof Local aims to spread joy among pets and their owners by fostering community connections through a shared love for dogs. Over 2-3 years, we developed a comprehensive app from scratch, driven by our passion for promoting happiness through dog ownership, despite lacking prior experience. Successfully launched with various engaging features, Woof Local enhances the pet ownership experience and strengthens community bonds.
+
 ## Url:
     https://www.wooflocal.dog
 
@@ -161,7 +163,6 @@ At Gymcatch, our mission is to increase participation in fitness through innovat
 
 # Roezy 
 
-
 * The Roezy project is a car service management system that is designed to streamline the process of providing services to clients. 
 
 * The project allows for the maintenance of client invoices for car services, and it does this by fetching email data. 
@@ -189,8 +190,6 @@ At Gymcatch, our mission is to increase participation in fitness through innovat
 
 # My Schoola 
 
-
-* 
 My Schoola project is an innovative solution for managing and streamlining various educational processes in a school. It is equipped with several features that make it a comprehensive and user-friendly platform for students, teachers, and administrators.
 
 * One of the key features of the school project is the student attendance module. This allows teachers to mark students’ attendance in real-time, making it easy to keep track of who is present and who is absent. The online fee system feature enables parents to pay school fees online, eliminating the need for manual transactions.
