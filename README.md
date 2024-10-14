@@ -1,5 +1,5 @@
 # Projects
-This document outlines the projects I have worked on and am currently working on, showcasing my skills and contributions
+This document outlines the projects I have worked on and am currently working on, showcasing my skills and contributions.
 
 # Craveable Brands - Red Rooster
 ## The Top Fast Food Brand in Australia: Red Rooster's Journey to Innovation
