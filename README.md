@@ -45,27 +45,33 @@ As a leading name in the Australian fast food market, Red Rooster aimed to enhan
 
 * Description: Expanded ordering capabilities to include catering services alongside pickup and delivery options.
 * Technologies Used: Developed custom backend APIs to manage catering workflows, integrating with inventory and logistics systems.
-Favorite and Recent Orders
+
+## Favorite and Recent Orders
 
 * Description: Introduced features that allow customers to access their favorite and recent orders for added convenience.
 * Technologies Used: Leveraged Tranxactor for efficient storage and retrieval of user preferences.
-Loyalty Point Management
+
+## Loyalty Point Management
 
 * Description: Created a system for managing customer loyalty points, encouraging repeat purchases and enhancing customer loyalty.
 * Technologies Used: Integrated Tranxactor for seamless tracking and redemption of loyalty points.
-Menu Management
+
+## Menu Management
 
 * Description: Implemented a robust menu management system for real-time updates on menu items, prices, and promotions.
 * Technologies Used: Used Deliverect for streamlined menu updates across delivery platforms.
-Delivery Partner Integration
+
+## Delivery Partner Integration
 
 * Description: Partnered with DoorDash to expand delivery options, ensuring timely and efficient service to customers.
 * Technologies Used: Developed APIs to facilitate real-time order tracking and updates between Red Rooster and DoorDash.
-Content Management and Vouchers
+
+## Content Management and Vouchers
 
 * Description: Established a content management system to efficiently manage promotional content and vouchers.
 * Technologies Used: Implemented Contentful for a flexible solution to manage marketing materials and promotions.
-Outcomes
+
+## Outcomes
 
 ## Enhanced Customer Experience
    New ordering features and an improved user interface led to increased customer satisfaction and engagement.
