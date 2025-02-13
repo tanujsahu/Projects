@@ -30,6 +30,21 @@ Welcome to my GitHub profile! I am a passionate Full Stack Developer with experi
 - **Mongoose**
 - **Firebase**
 
+# HotelGym - Chrome Extension
+
+# Project Overview
+Worked on a Chrome Extension project integrating various websites to display gym facilities, customer ratings, reviews, and graphs.
+Implemented authentication to ensure secure access to the platform.
+Managed token and API key handling for smooth integration with third-party services.
+Deployed the project efficiently using serverless technologies.
+
+## Tech Stack
+* Java script.
+* Kind for authentication.
+* Make.com for token and API key management.
+* QuickAPI for fetching hotel data.
+* Cloudflare Workers for deployment.
+
 # Craveable Brands - Red Rooster
 ## The Top Fast Food Brand in Australia: Red Rooster's Journey to Innovation
 * Company: Craveable Brands Ltd
