@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I am a passionate Full Stack Developer with experi
 - **Lambda Function**
 
 ### Database Technologies
-- **MySQL**
 - **MongoDB**
+- **MySQL**
 - **DynamoDB**
 
 ### Cloud Services
