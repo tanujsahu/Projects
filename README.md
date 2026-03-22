@@ -1,34 +1,37 @@
 # My Projects and Skills
 
-## Introduction
-Welcome to my GitHub profile! I am a passionate Full Stack Developer with experience in building scalable web applications using a variety of technologies. Below you'll find an overview of my skills and the projects I have worked on.
+# Hi there, I'm Tanuj Sahu 👋 
+
+### Senior Full Stack Developer & Team Lead 🚀
+I am an architect and developer focused on building scalable enterprise solutions. With **5+ years of experience**, I specialize in high-performance **MERN stack** applications, **Microservices**, and **Serverless** architectures. I balance deep technical execution with team leadership to deliver robust, production-ready software.
 
 ## Skills
 
-### Frontend Technologies
-- **Angular**
-- **React.js**
-- **Next.js**
+## 🛠️ Technical Ecosystem
 
-### Backend Technologies
-- **Node.js (Versions 12, 14, 16, 20)**
-- **Express.js**
-- **Lambda Function**
+### 💻 Frontend Architecture
+- **Frameworks:** React.js, Next.js (App Router), Angular
+- **State & Styling:** Redux, Tailwind CSS, Material UI
+- **Principles:** Responsive Design, Component-Driven Development
 
-### Database Technologies
-- **MongoDB**
-- **MySQL**
-- **DynamoDB**
+### ⚙️ Backend & Logic
+- **Runtime:** Node.js (Expertise across v12 through v20+)
+- **Frameworks:** Express.js, NestJS
+- **Serverless:** AWS Lambda, Microservices Architecture
 
-### Cloud Services
-- **AWS (Serverless Architecture, S3, SES, SNS, SQS, EC2, Route 53, CloudWatch, CloudFront, Cognito)**
-- **Heroku**
+### 🗄️ Database & Storage
+- **NoSQL:** MongoDB (Mongoose), DynamoDB
+- **Relational:** MySQL (AWS RDS)
+- **Caching & Media:** Redis, Cloudinary, S3
 
-### Other Tools and Technologies
-- **SendGrid**
-- **Cloudinary**
-- **Mongoose**
-- **Firebase**
+### ☁️ Cloud & Infrastructure (AWS)
+- **Compute & Networking:** EC2, Route 53, CloudFront
+- **Messaging & Auth:** SNS, SQS, SES, Cognito
+- **Monitoring & DevOps:** CloudWatch, GitHub Actions, Heroku, Firebase
+
+### 🤖 AI-Augmented Workflow
+- **Development:** Cursor, GitHub Copilot
+- **Reasoning:** Claude 3.5 Sonnet (System Design), ChatGPT
 
 # HotelGym - Chrome Extension
 
