@@ -3,9 +3,7 @@
 # Hi there, I'm Tanuj Sahu 👋 
 
 ### Senior Full Stack Developer & Team Lead 🚀
-I am an architect and developer focused on building scalable enterprise solutions. With **5+ years of experience**, I specialize in high-performance **MERN stack** applications, **Microservices**, and **Serverless** architectures. I balance deep technical execution with team leadership to deliver robust, production-ready software.
-
-## Skills
+I am an architect and developer focused on building scalable enterprise solutions. With **5+ years of experience**, I specialize in high-performance **MEAN/MERN Stack** applications, **Microservices**, **Modular Monolithic**, and **Serverless** architectures. I balance deep technical execution with team leadership to deliver robust, production-ready software.
 
 ## 🛠️ Technical Ecosystem
 
