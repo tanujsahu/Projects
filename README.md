@@ -9,7 +9,7 @@ I am an architect and developer focused on building scalable enterprise solution
 
 ### 💻 Frontend Architecture
 - **Frameworks:** React.js, Next.js (App Router), Angular
-- **State & Styling:** Redux, Tailwind CSS, Material UI
+- **State & Styling:** Redux, Tailwind CSS, Material UI, Nginx
 - **Principles:** Responsive Design, Component-Driven Development
 
 ### ⚙️ Backend & Logic
@@ -30,6 +30,100 @@ I am an architect and developer focused on building scalable enterprise solution
 ### 🤖 AI-Augmented Workflow
 - **Development:** Cursor, GitHub Copilot
 - **Reasoning:** Claude 3.5 Sonnet (System Design), ChatGPT
+
+
+# BuildSync
+
+## Project Overview
+
+BuildSync is a modern cloud-based Construction ERP and Project Management platform designed to digitize and streamline the complete construction lifecycle. The platform provides an integrated solution for procurement, inventory management, project planning, budgeting, workflow approvals, vendor management, billing, and reporting. It is built with a scalable cloud-native architecture capable of supporting multiple companies, projects, and users through a secure role-based access control system.
+
+As the **Lead Developer**, I was responsible for the overall technical architecture, backend development, frontend implementation, DevOps collaboration, deployment strategy, code quality, and mentoring the development team. The platform was designed with scalability, security, and maintainability as primary objectives.
+
+# Tech Stack
+
+## Frontend
+- Next.js
+- React.js
+- TypeScript
+- Tailwind CSS
+
+## Backend
+- Node.js
+- Express.js
+
+## Database
+- MongoDB
+
+## Cloud Services
+- AWS S3 (Media & Document Storage)
+- AWS Amplify (Admin Panel Hosting)
+
+## DevOps & Infrastructure
+- Docker
+- Kubernetes
+- Jenkins
+- Harbor Container Registry
+- CI/CD Pipelines
+
+## Authentication
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+
+## Development Tools
+- GitHub
+- Postman
+- VS Code
+- MongoDB Compass
+- Jira
+
+# Key Responsibilities
+
+- Led the end-to-end development of the BuildSync platform.
+- Designed scalable system architecture and REST APIs.
+- Developed responsive and secure admin modules using Next.js.
+- Built backend services using Node.js and Express.js.
+- Integrated Amazon S3 for media and document storage.
+- Implemented authentication and authorization with JWT and RBAC.
+- Designed and optimized MongoDB database models and queries.
+- Built automated CI/CD pipelines using Jenkins.
+- Managed containerized deployments using Docker and Kubernetes.
+- Configured Harbor as the private container registry.
+- Collaborated with QA, DevOps, and Product teams for production releases.
+- Performed code reviews and mentored development team members.
+- Optimized application performance, scalability, and security.
+
+# Highlights
+
+- Enterprise-grade Construction ERP solution.
+- Cloud-native scalable architecture.
+- Secure role-based authentication system.
+- Automated deployment pipeline with Jenkins and Kubernetes.
+- Centralized media storage using AWS S3.
+- High-performance Next.js admin application hosted on AWS Amplify.
+- Production-ready REST API architecture.
+- Containerized deployment using Docker and Harbor Registry.
+- Designed for multi-company and multi-project environments.
+
+# Features
+
+- Procurement Management
+- Inventory Management
+- Project Planning
+- Budget Management
+- Workflow Approvals
+- Vendor Management
+- Purchase Requisition
+- Purchase Orders
+- Material Management
+- Project Monitoring
+- Dashboard & Analytics
+- Document Management
+- Multi-company Support
+- Multi-project Support
+- Role-Based Access Control
+- Cloud Media Storage
+- Real-time Reporting
 
 # HotelGym - Chrome Extension
 
